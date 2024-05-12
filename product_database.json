@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "book", "price": 42.0, "category": "education"}, "2": {"name": "bike", "price": 99.05, "category": "transport"}, "3": {"name": "bus", "price": 2.0, "category": "transport"}, "4": {"name": "pizza", "price": 50.0, "category": "food"}, "5": {"name": "cinema", "price": 21.77, "category": "entertainment"}}}
