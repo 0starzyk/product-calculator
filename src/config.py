@@ -3,7 +3,7 @@ from enum import Enum
 
 class Config(Enum):
     CATEGORIES: tuple = ("food", "entertainment", "transport", "education")
-    DATABASE_PATH: str = "product_database.json"
+    DATABASE_PATH: str = "../product_database.json"
     CLEARED_STRING: str = ""
     DEFAULT_WINDOW_POSITION_X: int = 100
     DEFAULT_WINDOW_POSITION_Y: int = 100

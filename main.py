@@ -1,11 +1,10 @@
 import sys
 from PyQt5 import QtWidgets
-from PyQt5.QtCore import Qt
-from view import View
-from model import Model
-from presenter import Presenter
-from tinydb import TinyDB, Query
-from config import Config
+from tinydb import TinyDB
+from src.view import View
+from src.model import Model
+from src.presenter import Presenter
+from src.config import Config
 
 
 def main():

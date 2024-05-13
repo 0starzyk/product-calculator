@@ -1,5 +1,5 @@
 from PyQt5.QtCore import QObject, pyqtSignal
-from tinydb import TinyDB, Query
+from tinydb import TinyDB
 import utils
 
 
