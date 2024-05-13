@@ -32,6 +32,7 @@ class View(QMainWindow):
         product_layout.addRow("Name", self.name_input)
         self.price_input = QDoubleSpinBox()
         self.price_input.setSuffix(" PLN")
+        self.price_input.setMaximum(9999.99)
         product_layout.addRow("Price", self.price_input)
         self.category_input = QComboBox()
         self.category_input.addItems(self.categories)
