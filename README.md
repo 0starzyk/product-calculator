@@ -15,6 +15,9 @@ The Product Calculator app is a simple tool designed to calculate accumulated pr
 Clone the repository:
 ```bash
 git clone https://github.com/0starzyk/product_calculator.git
+```
 
 ## Setup
+```bash
 make init
+```
