@@ -1,5 +1,5 @@
-import model
-import view
+import src.model as model
+import src.view as view
 
 
 class Presenter:

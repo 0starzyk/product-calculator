@@ -1,5 +1,5 @@
 import numpy as np
-from config import Config
+from src.config import Config
 
 
 def is_valid_product_data(product: dict):

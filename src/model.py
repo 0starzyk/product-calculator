@@ -1,6 +1,6 @@
 from PyQt5.QtCore import QObject, pyqtSignal
 from tinydb import TinyDB
-import utils
+import src.utils as utils
 
 
 class Model(QObject):

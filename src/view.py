@@ -1,8 +1,8 @@
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import Qt, pyqtSignal
-import utils
-import piecanvas
-from config import Config
+import src.utils as utils
+import src.piecanvas as piecanvas
+from src.config import Config
 
 
 class View(QMainWindow):
