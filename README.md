@@ -18,6 +18,11 @@ git clone https://github.com/0starzyk/product_calculator.git
 ```
 
 ## Setup
+Setup project:
 ```bash
 make init
+```
+Another way:
+ ```bash
+pip install -r requirements.txt
 ```
